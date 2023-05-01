@@ -1,0 +1,4 @@
+Alter the table Shopper to change the data type of mobile number from NUMBER to VARCHAR2. Mobile number can have a maximum length of 15 characters.
+
+Query:
+ALTER TABLE Shopper MODIFY MOBILENO VARCHAR2(15)
