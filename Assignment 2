@@ -1,0 +1,6 @@
+Insert the following data into Article table.
+ArCode	ArName	Rate	Quantity	Class
+A1001	  Mouse	  500	  0	         C
+
+QUERY:
+INSERT INTO ARTICLE (ARCODE,ARNAME,RATE,QUANTITY,CLASS) VALUES ('A1001','MOUSE',500,0,'C')
