@@ -1,0 +1,4 @@
+Modify the size of state column in Address table from 5 to 20.
+
+QUERY:
+ALTER TABLE ADDRESS MODIFY STATE VARCHAR2(20)
