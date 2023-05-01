@@ -1,0 +1,4 @@
+Modify the Supplier table to store the supplier city. The column name should be City and it can have maximum of 10 characters.
+
+QUERY:
+ALTER TABLE SUPPLIER ADD CITY VARCHAR2(10)
