@@ -1,0 +1,4 @@
+Remove the Emailid column from Supplier table
+
+QUERY:
+ALTER TABLE SUPPLIER DROP COLUMN EMAILID
