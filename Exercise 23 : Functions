@@ -1,0 +1,3 @@
+Select prodid,pdesc,category
+from product 
+where upper(category) = 'ELECTRONICS'
