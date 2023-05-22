@@ -1,0 +1,4 @@
+SELECT prodID, category, discount
+FROM product
+WHERE category IN ('Sports', 'Apparel')
+ORDER BY category ASC, discount ASC;
